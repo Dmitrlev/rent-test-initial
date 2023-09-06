@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rent-test-initial/static/css/main.290bf7e9.css",
-    "main.js": "/rent-test-initial/static/js/main.f73b6c11.js",
+    "main.css": "/rent-test-initial/static/css/main.d35950af.css",
+    "main.js": "/rent-test-initial/static/js/main.6d51f97b.js",
     "static/media/MainBannerCarRental.png": "/rent-test-initial/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
     "static/media/MainBannerProperty.png": "/rent-test-initial/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
     "static/media/MainBannerTours.png": "/rent-test-initial/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
@@ -17,11 +17,11 @@
     "static/media/googleBTN.png": "/rent-test-initial/static/media/googleBTN.03f08b36772a59e2c1e5.png",
     "static/media/appleBTN.png": "/rent-test-initial/static/media/appleBTN.84302b4f71934d4e9df7.png",
     "index.html": "/rent-test-initial/index.html",
-    "main.290bf7e9.css.map": "/rent-test-initial/static/css/main.290bf7e9.css.map",
-    "main.f73b6c11.js.map": "/rent-test-initial/static/js/main.f73b6c11.js.map"
+    "main.d35950af.css.map": "/rent-test-initial/static/css/main.d35950af.css.map",
+    "main.6d51f97b.js.map": "/rent-test-initial/static/js/main.6d51f97b.js.map"
   },
   "entrypoints": [
-    "static/css/main.290bf7e9.css",
-    "static/js/main.f73b6c11.js"
+    "static/css/main.d35950af.css",
+    "static/js/main.6d51f97b.js"
   ]
 }
