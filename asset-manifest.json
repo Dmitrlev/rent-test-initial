@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rent-test-initial/static/css/main.1b3b4d21.css",
-    "main.js": "/rent-test-initial/static/js/main.d5c9bde5.js",
+    "main.js": "/rent-test-initial/static/js/main.498cf45b.js",
     "static/media/MainBannerCarRental.png": "/rent-test-initial/static/media/MainBannerCarRental.ce6ea0ccda4520d4ce0a.png",
     "static/media/MainBannerProperty.png": "/rent-test-initial/static/media/MainBannerProperty.372b4c0d5133aa5be4fc.png",
     "static/media/MainBannerTours.png": "/rent-test-initial/static/media/MainBannerTours.218714811f3cfce5e0b4.png",
@@ -18,10 +18,10 @@
     "static/media/appleBTN.png": "/rent-test-initial/static/media/appleBTN.84302b4f71934d4e9df7.png",
     "index.html": "/rent-test-initial/index.html",
     "main.1b3b4d21.css.map": "/rent-test-initial/static/css/main.1b3b4d21.css.map",
-    "main.d5c9bde5.js.map": "/rent-test-initial/static/js/main.d5c9bde5.js.map"
+    "main.498cf45b.js.map": "/rent-test-initial/static/js/main.498cf45b.js.map"
   },
   "entrypoints": [
     "static/css/main.1b3b4d21.css",
-    "static/js/main.d5c9bde5.js"
+    "static/js/main.498cf45b.js"
   ]
 }
